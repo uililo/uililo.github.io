@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 Hi! I am a 2nd year PhD student in the CDT for NLP at the University of Edinburgh.
 
