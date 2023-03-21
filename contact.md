@@ -3,17 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [oli.liu@ed.ac.uk](mailto:oli.liu@ed.ac.uk)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
-## Mailing Address
+## Work Address
 
-> 221B, Baker Street
+> Wilkie Building
 >
-> London
+> Edinburgh
 >
 > United Kingdom
 
@@ -21,6 +20,4 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](https://twitter.com/uililo1)
