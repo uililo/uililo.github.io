@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a 2nd year PhD student in the CDT for NLP at the University of Edinburgh.
+Hi! I'm Oli, a 2nd year PhD student in the [CDT for NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh.
 
 ## Research Interest
 
