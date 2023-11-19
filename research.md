@@ -3,6 +3,9 @@ layout: default
 is_contact: true
 ---
 
+## Publications
+
+
 [**Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces**](https://arxiv.org/pdf/2305.12464.pdf) 
 
 Oli Liu, Hao Tang, Sharon Goldwater. In <em>Proceedings of Interspeech</em>. 2023.
@@ -13,16 +16,14 @@ Self-supervised speech representations are known to encode both speaker and phon
   <summary>bib</summary>
       
     
-    @inproceedings{liu.tang.ea:self-supervised,  
-      author={Oli Danyi Liu and Hao Tang and Sharon Goldwater},  
-      title={{Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces}},  
-      year=2023,  
-      booktitle={Proc. INTERSPEECH 2023},  
-      pages={2968--2972},  
-      doi={10.21437/Interspeech.2023-871}  
+    @inproceedings{liu.tang.ea:self-supervised,   
+      author={Oli Danyi Liu and Hao Tang and Sharon Goldwater},     
+      title={{Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces}},   
+      year=2023,   
+      booktitle={Proc. INTERSPEECH 2023},   
+      pages={2968--2972},   
+      doi={10.21437/Interspeech.2023-871}   
     }
-    
-
 </details>
 
 
@@ -46,6 +47,14 @@ Recent speaker diarisation systems often convert variable length speech segments
       pages={7168-7172},  
       doi={10.1109/ICASSP39728.2021.9414390}   
       }
-        
-
 </details>
+
+<details>
+  <summary>test</summary>
+  
+```python
+def func():
+    return 'hello, world!'
+```
+</details>
+
