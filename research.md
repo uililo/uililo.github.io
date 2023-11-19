@@ -13,13 +13,13 @@ Self-supervised speech representations are known to encode both speaker and phon
   <summary>bib</summary>
       
     
-    @inproceedings{liu23j_interspeech,
-      author={Oli Danyi Liu and Hao Tang and Sharon Goldwater},
-      title={{Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces}},
-      year=2023,
-      booktitle={Proc. INTERSPEECH 2023},
-      pages={2968--2972},
-      doi={10.21437/Interspeech.2023-871}
+    @inproceedings{liu.tang.ea:self-supervised,  
+      author={Oli Danyi Liu and Hao Tang and Sharon Goldwater},  
+      title={{Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces}},  
+      year=2023,  
+      booktitle={Proc. INTERSPEECH 2023},  
+      pages={2968--2972},  
+      doi={10.21437/Interspeech.2023-871}  
     }
     
 
@@ -36,15 +36,15 @@ Recent speaker diarisation systems often convert variable length speech segments
   <summary>bib</summary>
       
     
-    @INPROCEEDINGS{9414390,
-      author={Sun, G. and Liu, D. and Zhang, C. and Woodland, P. C.},
-      booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-      title={Content-Aware Speaker Embeddings for Speaker Diarisation}, 
-      year={2021},
-      volume={},
-      number={},
-      pages={7168-7172},
-      doi={10.1109/ICASSP39728.2021.9414390}
+    @inproceedings{sun.liu.ea:context,  
+      author={Sun, G. and Liu, D. and Zhang, C. and Woodland, P. C.},  
+      booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
+      title={Content-Aware Speaker Embeddings for Speaker Diarisation},   
+      year={2021},  
+      volume={},  
+      number={},  
+      pages={7168-7172},  
+      doi={10.1109/ICASSP39728.2021.9414390}   
       }
         
 
