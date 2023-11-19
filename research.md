@@ -50,11 +50,18 @@ Recent speaker diarisation systems often convert variable length speech segments
 </details>
 
 <details>
-  <summary>test</summary>
-  
-```python
-def func():
-    return 'hello, world!'
-```
+	<summary>Click to expand</summary>
+	<pre>
+		
+	Long content here
+	</pre>
+
 </details>
 
+<details>
+	<summary>Click to expand</summary>
+	
+	~~~ python
+	Code here
+	~~~
+</details>
