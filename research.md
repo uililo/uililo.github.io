@@ -8,7 +8,7 @@ is_contact: true
 
 [**Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces**](https://arxiv.org/pdf/2305.12464.pdf) 
 
-Oli Liu, Hao Tang, Sharon Goldwater. In <em>Proceedings of Interspeech</em>. 2023.
+Oli Danyi Liu, Hao Tang, Sharon Goldwater. In <em>Proceedings of Interspeech</em>. 2023.
 
 Self-supervised speech representations are known to encode both speaker and phonetic information, but how they are distributed in the high-dimensional space remains largely unexplored. We hypothesize that they are encoded in orthogonal subspaces, a property that lends itself to simple disentanglement. Applying principal component analysis to representations of two predictive coding models, we identify two subspaces that capture speaker and phonetic variances, and confirm that they are nearly orthogonal. Based on this property, we propose a new speaker normalization method which collapses the subspace that encodes speaker information, without requiring transcriptions. Probing experiments show that our method effectively eliminates speaker information and outperforms a previous baseline in phone discrimination tasks. Moreover, the approach generalizes and can be used to remove information of unseen speakers.
 
