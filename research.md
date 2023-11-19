@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-[**Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces**](https://arxiv.org/abs/2305.12464) 
+[**Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces**](https://arxiv.org/pdf/2305.12464.pdf) 
 
 Oli Liu, Hao Tang, Sharon Goldwater. In <em>Proceedings of Interspeech</em>. 2023.
 
