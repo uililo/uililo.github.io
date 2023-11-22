@@ -16,7 +16,7 @@ Self-supervised speech representations are known to encode both speaker and phon
   <summary>bib</summary>
      <pre>@inproceedings{liu.tang.ea:self-supervised,   
   author={Oli Danyi Liu and Hao Tang and Sharon Goldwater},     
-  title={{Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces}},   
+  title={Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces},   
   year=2023,   
   booktitle={Proc. INTERSPEECH 2023},   
   pages={2968--2972},   
