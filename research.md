@@ -3,8 +3,23 @@ layout: default
 is_contact: true
 ---
 
-## Publications
+## My first-author papers
 
+[**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237)  [*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/)
+
+Oli Danyi Liu, Hao Tang, Naomi Feldman, Sharon Goldwater. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>. 2024.
+
+Speech perception involves storing and integrating sequentially presented items. Recent work in cognitive neuroscience has identified temporal and contextual characteristics in humans’ neural encoding of speech that may facilitate this temporal processing. In this study, we simulated similar analyses with representations extracted from a computational model that was trained on unlabelled speech with the learning objective of pre- dicting upcoming acoustics. Our simulations revealed temporal dynamics similar to those in brain signals, implying that these properties can arise without linguistic knowledge. Another property shared between brains and the model is that the encod- ing patterns of phonemes support some degree of cross-context generalization. However, we found evidence that the effective- ness of these generalizations depends on the specific contexts, which suggests that this analysis alone is insufficient to support the presence of context-invariant encoding.
+
+<details>
+  <summary>bib</summary>
+     <pre>@inproceedings{liu.tang.ea:predictive,
+  title = {A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech},
+  author = {Liu, Oli Danyi and Tang, Hao and Feldman, Naomi H. and Goldwater, Sharon},
+  booktitle = {Proceedings of the 46th Annual Conference of the Cognitive Science Society},
+  year = {2024}
+}</pre>
+</details>
 
 [**Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces**](https://arxiv.org/pdf/2305.12464.pdf) 
 
@@ -24,12 +39,13 @@ Self-supervised speech representations are known to encode both speaker and phon
   }</pre>
 </details>
 
+## Other papers
 
 [**Content-aware speaker embeddings for speaker diarisation**](https://arxiv.org/pdf/2102.06467.pdf)
 
 Guangzhi Sun, Danyi Liu, Chao Zhang, Philip C Woodland. In <em>Proceedings of ICASSP</em>. 2021.
 
-Recent speaker diarisation systems often convert variable length speech segments into fixed-length vector representations for speaker clustering, which are known as speaker embeddings. In this paper, the content-aware speaker embeddings (CASE) approach is proposed, which extends the input of the speaker classifier to include not only acoustic features but also their corresponding speech content, via phone, character, and word embeddings. Compared to alternative methods that leverage similar information, such as multitask or adversarial training, CASE factorises automatic speech recognition (ASR) from speaker recognition to focus on modelling speaker characteristics and correlations with the corresponding content units to derive more expressive representations. CASE is evaluated for speaker re-clustering with a realistic speaker diarisation setup using the AMI meeting transcription dataset, where the content information is obtained by performing ASR based on an automatic segmentation. Experimental results showed that CASE achieved a 17.8% relative speaker error rate reduction over conventional methods.
+Incorporating acoustic signals and content information for speaker diarization.
 
 <details>
   <summary>bib</summary>
