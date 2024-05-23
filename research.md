@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## My first-author papers
+## First-author papers
 
 [**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237)  [*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/)
 
