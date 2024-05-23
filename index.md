@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## About Me
+## About me
 
 <img class="profile-picture" src="profile.jpg" onmouseover="this.src='coco_headphone.jpg';" onmouseout="this.src='profile.jpg';">
 
-Hi! I'm Oli, a third year PhD student in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh. I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/) on computational modeling for phonetic acquisition and speech perception. Currently, I'm working on analyses of self-supervised speech representations, specifically how they encode information about the [speaker](https://arxiv.org/pdf/2305.12464.pdf) or about neighbouring phones (soon to come!).
+Hi! I'm Oli, a PhD student in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh. I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/) on computational modeling for phonetic acquisition and speech perception. In my research, I study *how* self-supervised speech representations encode [speaker](https://arxiv.org/pdf/2305.12464.pdf) or about [neighboring phones](https://arxiv.org/pdf/2405.08237), and whether they can shed light on humans process speech.
 
 Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or speech or NLP or cognitive science :) 
 
 ### News
 
-Jan 2024 - I will be visiting [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/) at the University of Maryland College Park between March and May (pending visa).
+May 2024 - Our CogSci 2024 paper won the Computational Modeling Prize in Perception & Action! In July, I will be presenting this work as a poster at [HILS](https://hils2024.nl/) and as a talk at CogSci (this time my visa got sorted).
