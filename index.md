@@ -6,11 +6,15 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg" onmouseover="this.src='coco_headphone.jpg';" onmouseout="this.src='profile.jpg';">
 
-Hi! I'm a PhD student in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh, where I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/). In my research, I study *how* self-supervised speech representations encode [speaker](https://arxiv.org/pdf/2305.12464.pdf) or information about [neighboring phones](https://arxiv.org/pdf/2405.08237). More generally, I am interested in how humans and models acquire and process language. 
+Hi! I'm a PhD student in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh, where I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/), and collaborate with [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/index.html). 
+
+In my research, I study *how* self-supervised speech representations encode information about [speaker](https://arxiv.org/pdf/2305.12464.pdf) or about [context (neighboring phones)](https://arxiv.org/pdf/2405.08237). More generally, I want to understand how humans and models acquire and process language. 
 
 Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or speech or NLP or cognitive science :) 
 
 ### News
+
+September 2024 - I've been fortunate to attend HILS (Nijmegen), Cogsci (Rotterdam), and Interspeech (Kos) this past summer. Now I'm ready to stay away from making posters and writing talks and get some actual work done.
 
 June 2024 - Really excited to be visiting University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
 
