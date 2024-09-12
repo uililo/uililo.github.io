@@ -16,7 +16,7 @@ Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or spee
 
 September 2024 - I've been fortunate to attend HILS (Nijmegen), Cogsci (Rotterdam), and Interspeech (Kos) this past summer. Now I'm ready to stay away from making posters and writing talks and get some actual work done.
 
-June 2024 - Really excited to be visiting University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
+June 2024 - I gave a talk at University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
 
 May 2024 - Our CogSci 2024 paper won the Computational Modeling Prize in Perception & Action! In July, I will be presenting this work as a poster at [HILS](https://hils2024.nl/) and as a talk at CogSci (this time my visa got sorted!).
 
