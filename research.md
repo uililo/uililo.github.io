@@ -5,7 +5,8 @@ is_contact: true
 
 ## Selected Publications
 
-[**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237)  [*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/) <span class="subline">[[slides]](Cogsci_talk.pdf)</span>  
+[**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237) <span class="subline">[[slides]](Cogsci_talk.pdf)</span>  
+[*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/)
 
 Oli Danyi Liu, Hao Tang, Naomi Feldman, Sharon Goldwater. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>. 2024.
 
