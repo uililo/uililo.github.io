@@ -5,7 +5,7 @@ is_contact: true
 
 ## Selected Publications
 
-[**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237)  [*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/)
+[**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**](https://arxiv.org/pdf/2405.08237)  [*(Computational Modeling Prize in Perception & Action)*](https://cognitivesciencesociety.org/conference-awards/) <span class="subline">[[slides]](Cogsci_talk.pdf)</span>  
 
 Oli Danyi Liu, Hao Tang, Naomi Feldman, Sharon Goldwater. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>. 2024.
 
@@ -39,7 +39,7 @@ Self-supervised speech representations are known to encode both speaker and phon
   }</pre>
 </details>
 
-[**Orthogonality and isotropy of speaker and phonetic information in self-supervised speech representations**](https://www.isca-archive.org/interspeech_2024/mohamed24_interspeech.pdf) 
+[**Orthogonality and isotropy of speaker and phonetic information in self-supervised speech representations**](https://www.isca-archive.org/interspeech_2024/mohamed24_interspeech.pdf)  <span class="subline">[[poster]](interspeech_poster.pdf)</span>  
 
 Mukhtar Mohamed, Oli Danyi Liu, Hao Tang, Sharon Goldwater. In <em>Proceedings of Interspeech</em>. 2024.
 
