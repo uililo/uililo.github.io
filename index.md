@@ -14,7 +14,7 @@ Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or spee
 
 ### News
 
-September 2024 - I've been fortunate to attend HILS (Nijmegen), Cogsci (Rotterdam), and Interspeech (Kos) this past summer. Now I'm ready to stay away from making [posters](interspeech_poster.pdf) and writing [talks](Cogsci_talk.pdf) and get some work done.
+September 2024 - I've been fortunate to attend Cogsci in Rotterdam ([talk](Cogsci_talk.pdf)), and Interspeech in Kos ([poster](interspeech_poster.pdf)) this past summer. Now I'm ready to stay away from making posters and writing talks, and get some work done ✍️💻📖.
 
 June 2024 - I gave a [talk](UPF-BSC_talk.pdf) at University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
 
