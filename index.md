@@ -14,12 +14,11 @@ Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or spee
 
 ### News
 
-September 2024 - I've been fortunate to attend Cogsci in Rotterdam ([talk](Cogsci_talk.pdf)), and Interspeech in Kos ([poster](interspeech_poster.pdf)) this past summer. Now I'm ready to stay away from making posters and writing talks, and get some work done ✍️💻📖.
+September 2024 - This past summer, I've been fortunate to attend HILS in Nijmegen ([poster](hils_poster.pdf)), Cogsci in Rotterdam ([talk](Cogsci_talk.pdf)), and Interspeech in Kos ([poster](interspeech_poster.pdf)). Now I'm ready to stay away from making posters and writing talks, and get some work done ✍️💻📖.
 
 June 2024 - I gave a [talk](UPF-BSC_talk.pdf) at University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
 
-May 2024 - Our CogSci 2024 paper won the Computational Modeling Prize in Perception & Action! In July, I presented this work as a [poster](hils_poster.pdf) at [HILS](https://hils2024.nl/) and as a talk at CogSci (this time my visa got sorted!).
+May 2024 - Our CogSci 2024 paper won the Computational Modeling Prize in Perception & Action!
 
-January 2024 - I will be visiting [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/) at the University of Maryland College Park between March and May (April update: my visa didn't come through in time).
 
 
