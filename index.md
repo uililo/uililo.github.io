@@ -8,7 +8,7 @@ layout: default
 
 Hi! I'm a PhD student in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh, where I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/), and collaborate with [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/index.html). 
 
-In my research, I study *how* self-supervised speech representations encode information about [speaker](https://arxiv.org/pdf/2305.12464.pdf) or about [context (neighboring phones)](https://arxiv.org/pdf/2405.08237). More generally, I want to understand how humans and models acquire and process language. 
+In my research, I study *how* self-supervised models of speech encode information about [speakers](https://arxiv.org/pdf/2305.12464.pdf) or about [context (neighboring phones)](https://arxiv.org/pdf/2405.08237). More generally, I want to understand how humans and models acquire and process language. 
 
 Email me (oli.liu) here: ed.ac.uk to talk about my research or Edinburgh or speech or NLP or cognitive science :) 
 
