@@ -10,7 +10,7 @@ Hi! I'm a PhD student in the [CDT in Natural language processing](https://web.in
 
 In my research, I study *how* self-supervised models of speech encode information about [speakers](https://arxiv.org/pdf/2305.12464.pdf) or about [context (neighboring phones)](https://arxiv.org/pdf/2405.08237). More generally, I want to understand how humans and models acquire and process language. 
 
-I'm doing quite a bit of tutoring this year, if you'd like to give me anonymous feedback, click [here](https://forms.office.com/e/vzXHWwS1cd). Alternatively, email me (oli.liu) here: ed.ac.uk to talk about my research or PhD application or anything about your course :) 
+I'm doing quite a bit of teaching support this year, if you'd like to give me anonymous feedback, click [here](https://forms.office.com/e/vzXHWwS1cd). Alternatively, email me (oli.liu) here: ed.ac.uk to talk about my research or PhD application or anything about your course :) 
 
 Last but not least, [when in doubt, wiggle it out✨](https://www.instagram.com/ediuniswing/?hl=en). 
 
