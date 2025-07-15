@@ -12,8 +12,6 @@ In my research, I study *how* self-supervised models of speech encode informatio
 
 ### News
 
-June 2025 - I will be attending 
-
 September 2024 - This past summer, I attended HILS in Nijmegen ([poster](hils_poster.pdf)), Cogsci in Rotterdam ([talk](Cogsci_talk.pdf)), and Interspeech in Kos ([poster](interspeech_poster.pdf)). 
 
 June 2024 - I gave a [talk](UPF-BSC_talk.pdf) at the University of Pompeu Fabra and Barcelona Supercomputing centre on June 26 and 28. 
