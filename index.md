@@ -14,7 +14,7 @@ I use computational models to understand how humans acquire and process speech a
 I did my PhD in the [CDT in Natural language processing](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh, where I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/), [Hao Tang](https://homepages.inf.ed.ac.uk/htang2/), and [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/index.html). 
 Before Edinburgh, I did my undergraduate in information engineering and master's in computer science at University of Cambridge. 
 
-I like books and music, but then who does not? My favorite authors are Elif Batuman and Eileen Chang. 
+I like books and music and cats, but then who does not? My favorite authors are Elif Batuman and Eileen Chang. 
 
 
 
